@@ -20,5 +20,11 @@
   </a>
 </div>
 
+<div  align="center">
+  <a href="https://www.hackerrank.com/profile/hafedh_gunichi">
+  <img src="https://img.shields.io/badge/CodersRank-purple?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodersRank"/>
+  </a>
+</div>
+
 <div  align="center"><img src="https://komarev.com/ghpvc/?username=hafedh049&style=flat-square&color=blue" alt=""/></div>
 

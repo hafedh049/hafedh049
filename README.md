@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://leetcode.com/hafedhgunichi/">
-    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=leet-code&logoColor=white" alt="Leet Code"/>
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=cube&logoColor=white" alt="Leet Code"/>
   </a>
   <a href="https://www.hackerrank.com/profile/hafedh_gunichi">
     <img src="https://img.shields.io/badge/HackerRank-rank?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>

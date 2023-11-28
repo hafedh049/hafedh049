@@ -151,5 +151,7 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
 </div>
 <br>
-:fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hafedh049&theme=dark&hide_border=true&ring=63EBD8" alt="GitHub Streak" /></a>
+:fire: My Stats :<br>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hafedh049&theme=dark&hide_border=true&ring=63EBD8" alt="GitHub Streak" /></a>
+</div>

@@ -12,7 +12,7 @@
   <a href="https://twitter.com/hafedhgunichi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://twitter.com/hafedhgunichi">
+   <a href="https://leetcode.com/hafedhgunichi/">
     <img src="https://img.shields.io/badge/Leet-code?style=for-the-badge&logo=Leet-code&logoColor=white" alt="Leet Code"/>
   </a>
 </div>

@@ -158,5 +158,5 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
 </div>
 <br>
 <div align="center">
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>

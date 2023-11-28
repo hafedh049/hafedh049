@@ -152,4 +152,5 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
 </div>
 <br>
 :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src='[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafedh049&theme=dark&background=000000)](https://git.io/streak-stats)'>
+</img>

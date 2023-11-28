@@ -48,5 +48,4 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on leecode and read tech articles.
-### :man_technologist:
+- :zap: In my free time, I solve problems on leecode and read tech articles.### :man_technologist:

@@ -153,3 +153,5 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
 <br>
 :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafedh049&theme=dark&hide_border=true&ring=63EBD8)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+

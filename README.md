@@ -157,14 +157,6 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hafedh049&theme=dark&hide_border=true&ring=63EBD8" alt="GitHub Streak" /></a>
 </div>
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hafedh049&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hafedh049&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hafedh049&show_icons=true" />
-</picture>
+<div align="center">
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafedh049)](https://github.com/anuraghazra/github-readme-stats)
+</div>

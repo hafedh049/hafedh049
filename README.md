@@ -87,7 +87,6 @@ I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlpl
    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="IOS" **alt="IOS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="Appwrite" **alt="Appwrite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="Appwrite" **alt="Appwrite" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" **alt="CentOS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" **alt="Cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;

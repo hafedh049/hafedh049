@@ -44,11 +44,11 @@
 <br>
 
 I am a Full Stack Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building cross-platform applications.
+- 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building cross-platform applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🌱: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on leecode and read tech articles. :man_technologist:
+- ⚡: In my free time, I solve problems on leecode and read tech articles. :man_technologist:
 
 <br>
 

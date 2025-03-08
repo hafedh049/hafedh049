@@ -28,7 +28,7 @@
 - 🌱 Exploring Technical Content Writing
 - 💻 Contributing to frontend and backend development
 - ⚡ In my free time, I solve problems on LeetCode and read tech articles
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-hafedh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hafedh-guenichi/)
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-hafedhguenichi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hafedh-guenichi/)
 
 ---
 

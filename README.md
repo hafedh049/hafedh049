@@ -413,3 +413,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/hafedh049/hafedh049/output/snake.svg" alt="Snake animation" />
+
+###

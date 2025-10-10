@@ -128,7 +128,7 @@ Flutter    12 hrs 40 mins  ███████████▓░░░░░�
 Python     8 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░  30.67%
 Firebase   4 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░  15.02%
 Kotlin     2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░   9.08%
-
+```
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
